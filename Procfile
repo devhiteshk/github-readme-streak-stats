@@ -1,1 +1,1 @@
-web: php -S src/
+web: php -S 0.0.0.0:$PORT src/
