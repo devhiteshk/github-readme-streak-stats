@@ -1,1 +1,1 @@
-web: vendor/bin/app/src/
+web: /app/src/
