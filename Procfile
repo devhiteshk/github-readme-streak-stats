@@ -1,1 +1,1 @@
-web: src/
+web: vendor/bin/ src/
