@@ -1,1 +1,1 @@
-web: php -S -t src/
+web: php -S src/
