@@ -1,1 +1,1 @@
-web: vendor/bin/ src/
+web: php -S localhost:port -t src/
