@@ -28,6 +28,12 @@ return [
         "Present" => "Present",
     ],
     // Locales below are sorted alphabetically
+    "da" => [
+        "Total Contributions" => "Totalt Antal Bidrag",
+        "Current Streak" => "Nuværende i Træk",
+        "Longest Streak" => "Længst i Træk",
+        "Present" => "I dag",
+    ],
     "de" => [
         "Total Contributions" => "Gesamte Beiträge",
         "Current Streak" => "Aktuelle Serie",
@@ -106,6 +112,12 @@ return [
         "Current Streak" => "Güncel Seri",
         "Longest Streak" => "En Uzun Seri",
         "Present" => "Şu an",
+    ],
+    "vi" => [
+        "Total Contributions" => "Tổng số đóng góp",
+        "Current Streak" => "Chuỗi đóng góp hiện tại",
+        "Longest Streak" => "Chuỗi đóng góp lớn nhất",
+        "Present" => "Hiện tại",
     ],
     "zh" => [
         "Total Contributions" => "合计贡献",
